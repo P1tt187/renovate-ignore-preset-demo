@@ -4,4 +4,13 @@
     "config:recommended",
     "docker:disableMajor",
   ],
+  packageRules": [
+    {
+      "description": "Group docker Containers for nodejs",
+      "groupName": "nodejs docker",
+      "matchPackagePrefixes": [
+        "amd64/node:"
+      ]
+    }
+  ]
 }
