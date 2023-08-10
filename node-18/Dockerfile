@@ -1,1 +1,1 @@
-FROM amd64/node:18.17.0-bullseye@sha256:32a7e9fd7283923239ebb3e5c7f7612520d700a2dcd50b27b4390eb69e1d891a AS node-18
+FROM amd64/node:18.17.1-bullseye@sha256:86a6e2ac084e698ad948b9b4cce4cca11c759977722c99565b6f228b457e568d AS node-18
