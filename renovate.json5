@@ -9,7 +9,7 @@
       "description": "Group docker Containers for nodejs",
       "groupName": "nodejs docker",
       "matchPackagePrefixes": [
-        "amd64/node:"
+        "amd64/node"
       ]
     }
   ]
