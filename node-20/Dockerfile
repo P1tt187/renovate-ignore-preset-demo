@@ -1,1 +1,1 @@
-FROM amd64/node:20.5.0-bullseye@sha256:585d3138032d95aafa2518d058a5c62cf015fdbc23836306f49033062788fa8a AS nodejs-20
+FROM amd64/node:20.6.1-bullseye@sha256:63544df545be07369aa3dd5a543a508febeeadddf316ffaf50791411e0e67d50 AS nodejs-20
